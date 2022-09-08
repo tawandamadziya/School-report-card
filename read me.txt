@@ -1,0 +1,2 @@
+this app allows users to input student marks then calculates percentages and grading.  
+ 
