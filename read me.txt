@@ -1,2 +1,38 @@
-this app allows users to input student marks then calculates percentages and grading.  
- 
+README
+
+This is a student record application written in C++. It allows users to enter their name, surname, school name, and marks for 6 subjects. The application then calculates the average, minimum, and maximum marks, as well as whether the student passed or failed. The application also awards distinctions to students who achieved 75% or higher in 4 or more subjects.
+
+Usage
+
+To use the application, simply compile the code and run the executable. You will be prompted to enter your name, surname, school name, and marks for 6 subjects. The application will then display a report with your student record.
+
+Features
+
+Calculates the average, minimum, and maximum marks
+Determines whether the student passed or failed
+Awards distinctions to students who achieved 75% or higher in 4 or more subjects
+Displays a report with the student record
+
+Example
+
+
+
+
+*******************************************
+This is the student record application
+*******************************************
+Name: John Doe     schoolName: Franschhoek High School
+
+Subjects    Mark    Symbol   code
+English     90%     A       7
+Mathematics  85%     B       6
+Life Orientation  75%     B       6
+History     65%     C       5
+Computer Literacy  55%     D       4
+Art     50%     D       4
+
+Average: 72.5%
+Minimum: 50%
+Maximum: 90%
+Status: Passed
+Distinctions: 1
